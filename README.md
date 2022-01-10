@@ -1,9 +1,12 @@
-# Welcome to my Read
+# Reading Notes
+
 ---
+Here is a place to store -y read 0fro102/m each CodeFellows class.
 
-## The link to my personal github [Shane Roach](https://github.com/Shane-Patrick-Roach)
+### The link to my personal github [Shane Roach](https://github.com/Shane-Patrick-Roach)
 
-## Growth Mindset
+
+## Its Important to keep a Growth Mindset!
 
 * A dynamic, learning, adaptive world view that incorporates new information and applies it toward future experience.
 
@@ -17,12 +20,20 @@ wooo this was edited using VS CODEEEE
 
 
 ## Table of Contents
+---
+## 102 Introduction to Software Development
+
+- [Read 01](102/readingnotes01.md)
+- [Read 02](102/readingnotes02.md)
+- [Read 03](102/readingnotes03.md)
+- [Read 04](102/readingnotes04.md)
+- [Read 05](102/readingnotes05.md)
+- [Read 06](102/readingnotes06.md)
+- [Read 07](102/readingnotes07.md)
+- [Read 08](102/readingnotes08.md)
 
 
-### Introduction to Software Development
-
-
-### 201 Foundations of Software Development
+## 201 Foundations of Software Development
 
 - [Read 01](201/class-01.md)
 - [Read 02](201/class-02.md)
@@ -38,8 +49,8 @@ wooo this was edited using VS CODEEEE
 - [Read 13](201/class-13.md)
 
 
-###  301 Intermediate Software Development
+##  301 Intermediate Software Development
 - [Read 01](301/read01.md)
 - [Read 02](301/read02.md)
 
-
+## 401 Advanced Software Development
