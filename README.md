@@ -1,7 +1,7 @@
 # Reading Notes
 
 ---
-Here is a place to store -y read 0fro102/m each CodeFellows class.
+Here is a place to store my reading notes for each class.
 
 ### The link to my personal github [Shane Roach](https://github.com/Shane-Patrick-Roach)
 
@@ -15,8 +15,6 @@ Here is a place to store -y read 0fro102/m each CodeFellows class.
 * View learning as a fun **challenge**.
 * Compare yourself to who you were **yesterday**, not who **someone else** is today.
 * Pursue what is **meaningful** (not what is **expedient**).
-
-wooo this was edited using VS CODEEEE
 
 
 ## Table of Contents
