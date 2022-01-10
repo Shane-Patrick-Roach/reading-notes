@@ -1,6 +1,10 @@
 # Read 01 - Introduction to React and Components
 ---
 
+sources of info: 
+- [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+- [What is Props?](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
 
 ## What is a “component”?
 
@@ -60,7 +64,14 @@
 
 
 
-# What Is React?
+## Things I want to know more about
 ---
 
-- React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+### What Is **React**?
+
+- **React** is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+
+### What is big O and why is it important?
+
+### What is the best process of problem solving?
+
