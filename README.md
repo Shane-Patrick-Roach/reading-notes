@@ -1,6 +1,21 @@
 # Welcome to my Read
 ---
 
+## The link to my personal github [Shane Roach](https://github.com/Shane-Patrick-Roach)
+
+## Growth Mindset
+
+* A dynamic, learning, adaptive world view that incorporates new information and applies it toward future experience.
+
+### To keep oneself in a **growth mindset**, one must
+
+* View learning as a fun **challenge**.
+* Compare yourself to who you were **yesterday**, not who **someone else** is today.
+* Pursue what is **meaningful** (not what is **expedient**).
+
+wooo this was edited using VS CODEEEE
+
+
 ## Table of Contents
 
 
