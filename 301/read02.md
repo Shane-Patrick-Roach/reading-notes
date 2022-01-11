@@ -32,7 +32,7 @@ the render potentiall happens before the componentDidMount
 
 ## What types of things can you pass in the props?
 
-You pass any information of compenents through props
+You pass initial information such as a counter start inside of the props. Props are like a function in which you want the application to initially render too. 
 
 ## What is the big difference between props and state?
 
@@ -50,3 +50,14 @@ Everytime the state has changed.
 
 
 ## Things I want to know more about
+
+- I want to learn more about how to incorporate state into your react applications 
+
+
+
+
+## Cited Sources
+
+- https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified
+- https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093
+- https://react-bootstrap.github.io/
