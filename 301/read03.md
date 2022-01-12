@@ -83,6 +83,28 @@ objectFour.laugh() // 😂😂😂😂😂
 - What is a component? Compenents let you split the UI into independent reusable pieces, and think about eaach piece in isolation. Conceputally, compnents are like JS functions. The accept inputs(props) and return React elements desicribing how they should appear on screen
 
 
+
+
+### In the video, what is the first step that the developer does to pass functions between components?
+
+He adds a new function to pass an object and knows which person to increment when the button is clicked.
+
+### In your own words, what does the increment function do?
+
+creates a new array based on the people. If a person is clicked than it updats the counter. 
+
+
+### How can you pass a method from a parent component into a child component?
+
+You invoke it within the declared method.
+
+### How does the child component invoke a method that was passed to it from a parent component?
+
+You add to the child object with a .this inside the object creator
+
+
+
+
 ## References/Citations
 
 1. https://reactjs.org/docs/lists-and-keys.html
