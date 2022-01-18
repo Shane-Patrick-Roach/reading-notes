@@ -4,10 +4,10 @@
 
 ## What Google Learned From Its Quest to Build the Perfect Team
 --- 
-- If you took Code 201, skim this article again for a refresher. If you did not take Code 201, read this article and think about how it can influence the way you work with your partners during pair programming.
 
-
-
+- Its really hard to narrow down what makes a good team work. Even if you fund a project with a massive amounts of money.
+- Whats important when working in teams is that every person brings something unqiue and valuable. Everyone must be given room to speak and share ideas. To be heard.
+- Creating a safe learning environment is key to success as a team. 
 
 
 ## How I explained REST to my brother
@@ -16,20 +16,34 @@
 
 ## Who is Roy Fielding?
 
+- A guy who helped write the first web servers, that sent documents across the internet.
+- An american computer scientist, one of the principal authors of HTTP specification.
+
 ### Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
+- Each system interprets verbs differently and there was no standard reading. This is an issue when passing information from one system to another. 
+
+- 
 ### What is the HTTP protocol that Fielding and his friends created?
 
+- a protocol that is all about applying verbs to nouns. For instance, when you go to a web page, the browser does an HTTP Get pn the URL you typed in and back comes a web page. 
+- Http is actually a general purpose protocol for applying verbs to nouns.
+
 ### What does a GET do?
+- allows each system to retrieve information from each other.
 
 ### What does a POST do?
+- Used when one system needs to add information to another.
 
 ### What does PUT do?
+- Used when one system needs to replace information in another.
 
 ### What does PATCH do?
-
+- To partially replace information in another system. 
 
 ## API keys
+
+---
 
 ### Geocoding API
 
@@ -52,7 +66,8 @@ API Key: 8c72ab857fe96e128b537b005e1cec4f
 
 
 ## Things I want to know more about
-
+- Better understanding of what post and pull mean in reference to API's
+- 
 
 
 ## References/Citations
