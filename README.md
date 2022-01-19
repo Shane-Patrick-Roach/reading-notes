@@ -55,7 +55,9 @@ Here is a place to store my reading notes for each class.
 - [Read 05](301/read05.md)
 - [Read 06](301/read06.md)
 - [Read 07](301/read07.md)
-
+- [Read 08](301/read08.md)
+- [Read 09](301/read09.md)
+- [Read 10](301/read10.md)
 
 
 ## 401 Advanced Software Development
