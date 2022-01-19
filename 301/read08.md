@@ -1,9 +1,5 @@
 # Reading 08
 
-
-
-
-
 ## API Design Best Practices
 
 ---
@@ -64,6 +60,7 @@
 
 
 ## Things I want to Know More about
+--- 
 
 - Practice requesting and retreiving data from an API
 - What is Get? - Retrieves a representation of the resource ar the specified URI. Body of response message contains the details of the requested resource.
@@ -74,5 +71,6 @@
 
 
 ## References/Citations
+---
 
 -[API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
