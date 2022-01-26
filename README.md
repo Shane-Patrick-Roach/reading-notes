@@ -60,6 +60,9 @@ Here is a place to store my reading notes for each class.
 - [Read 10](301/read10.md)
 - [Read 11](301/read11.md)
 - [Read 12](301/read12.md)
+- [Read 13](301/read13.md)
+- [Read 14](301/read14.md)
+
 
 
 ## 401 Advanced Software Development
