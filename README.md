@@ -48,6 +48,7 @@ Here is a place to store my reading notes for each class.
 
 
 ##  301 Intermediate Software Development
+
 - [Read 01](301/read01.md)
 - [Read 02](301/read02.md)
 - [Read 03](301/read03.md)
@@ -67,3 +68,6 @@ Here is a place to store my reading notes for each class.
 
 
 ## 401 Advanced Software Development
+
+- [Terminal Review](401/terminal.md)
+- [Mindset](401/mindset.md)
