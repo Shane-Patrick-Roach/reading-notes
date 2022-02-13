@@ -71,3 +71,5 @@ Here is a place to store my reading notes for each class.
 
 - [Terminal Review](401/terminal.md)
 - [Mindset](401/mindset.md)
+- [SQL](401/SQL.md)
+
