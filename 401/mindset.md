@@ -30,3 +30,10 @@
 - Student A trying to study for 6 hours without taking any breaks, probaly gets around 30 minutes of effective studying, and 5 hours and 30 minutes of wasted time that will make you hate studying.
 - Student B trying to study for 6 hours with taking breaks every 30 minutes for 5 minutes long. Gets aaround 5 hours and 30 minutes of effective studying and 30 minutes of breaks doing something fun. 
 - `be student B`
+
+
+### References/Citations
+
+- [Effective Studying](https://www.youtube.com/watch?v=AL08YZCYShc&ab_channel=Motivation2Study)
+- [Jordan Peterson on Reading](https://www.youtube.com/watch?v=Y_d7DdNzkLw&ab_channel=DoseofTruth)
+- [Grit, The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
