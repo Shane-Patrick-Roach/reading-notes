@@ -74,4 +74,5 @@ Here is a place to store my reading notes for each class.
 - [SQL](401/SQL.md)
 - [Read 01: Intro to Java](401/read01.md)
 - [Read 02: Java loops and imports](401/read02.md)
+- [Read 03: Java types](401/read03.md)
 
