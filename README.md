@@ -75,6 +75,7 @@ Here is a place to store my reading notes for each class.
 - [Read 01: Intro to Java](401/read01.md)
 - [Read 02: Java loops and imports](401/read02.md)
 - [Read 03: Java types](401/read03.md)
-- [Read 04: Java types](401/read04.md)
+- [Read 04: Java OOP](401/read04.md)
+- [Read 05: Java Linked Lists](401/read05.md)
 
 
