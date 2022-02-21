@@ -77,5 +77,7 @@ Here is a place to store my reading notes for each class.
 - [Read 03: Java types](401/read03.md)
 - [Read 04: Java OOP](401/read04.md)
 - [Read 05: Java Linked Lists](401/read05.md)
+- [Read 06: Java OOP: Inheritance and Interfaces](401/read06.md)
+
 
 
