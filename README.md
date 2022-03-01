@@ -82,6 +82,7 @@ Here is a place to store my reading notes for each class.
 - [Read 09: HTTP requests](401/read09.md)
 - [Read 10: Stacks and Queues](401/read10.md)
 - [Read 11: Spring MVC](401/read11.md)
+- [Read 12: Spring RESTful Routing & Static Files](401/read12.md)
 
 
 
