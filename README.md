@@ -84,5 +84,6 @@ Here is a place to store my reading notes for each class.
 - [Read 11: Spring MVC](401/read11.md)
 - [Read 12: Spring RESTful Routing & Static Files](401/read12.md)
 - [Read 13: Unit Testing and Additional Resources](401/read13.md)
+- [Read 14: Bcrypt](401/read14.md)
 
 
