@@ -86,5 +86,6 @@ Here is a place to store my reading notes for each class.
 - [Read 13: Unit Testing and Additional Resources](401/read13.md)
 - [Read 14: Bcrypt](401/read14.md)
 - [Read 15: Trees](401/read15.md)
+- [Read 16: Spring Security](401/read16.md)
 
 
