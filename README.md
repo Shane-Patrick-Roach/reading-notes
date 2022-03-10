@@ -89,4 +89,5 @@ Here is a place to store my reading notes for each class.
 - [Read 16: Spring Security](401/read16.md)
 - [Read 17: Spring Security](401/read17.md)
 - [Read 18: Spring Many To Many](401/read18.md)
+- [Read 19: Functional Programming](401/read19.md)
 
