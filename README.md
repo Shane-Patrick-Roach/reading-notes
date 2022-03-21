@@ -90,4 +90,5 @@ Here is a place to store my reading notes for each class.
 - [Read 17: Spring Security](401/read17.md)
 - [Read 18: Spring Many To Many](401/read18.md)
 - [Read 19: Functional Programming](401/read19.md)
+- [Read 20: Android Fundamentals](401/read20.md)
 
