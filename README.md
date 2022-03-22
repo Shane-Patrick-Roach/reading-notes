@@ -91,4 +91,4 @@ Here is a place to store my reading notes for each class.
 - [Read 18: Spring Many To Many](401/read18.md)
 - [Read 19: Functional Programming](401/read19.md)
 - [Read 20: Android Fundamentals](401/read20.md)
-
+- [Read 21: Android Fundamentals Continued](401/read21.md)
