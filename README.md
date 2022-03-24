@@ -93,4 +93,5 @@ Here is a place to store my reading notes for each class.
 - [Read 20: Android Fundamentals](401/read20.md)
 - [Read 21: Android Fundamentals Continued: Shared Preferences](401/read21.md)
 - [Read 22: Android Fundamentals Continued: RecycleView](401/read22.md)
+- [Read 23: Android Fundamentals Continued: Rooms](401/read23.md)
 
