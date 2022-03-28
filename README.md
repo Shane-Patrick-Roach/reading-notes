@@ -69,6 +69,7 @@ Here is a place to store my reading notes for each class.
 
 ## 401 Advanced Software Development
 
+- [Concepts review of 401](401/401InterviewReview.md)
 - [Terminal Review](401/terminal.md)
 - [Mindset](401/mindset.md)
 - [SQL](401/SQL.md)
@@ -95,4 +96,5 @@ Here is a place to store my reading notes for each class.
 - [Read 22: Android Fundamentals Continued: RecycleView](401/read22.md)
 - [Read 23: Android Fundamentals Continued: Rooms](401/read23.md)
 - [Read 24: Hash Tables](401/read24.md)
+- [Read 25: Android Fundamentals Continued: Espresso](401/read25.md)
 

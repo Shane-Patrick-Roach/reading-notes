@@ -1,0 +1,40 @@
+
+# Things I want to review from all of 401
+
+## Java
+
+---
+
+### What are the features of Java Programming Language?
+
+- Simple
+- Object-Oriented
+- Portable - Works on the principle of read-once-write anywhere approach which can be executed in every machine.
+- Platform independent - does not depend upon the operating system to execute the code as it comes with its own platform where its code is executed.
+- Secured
+- Robust
+- Distributed
+- Dynamic
+
+### What is the importance of the main method in Java?
+
+- Entry point for any java program
+- Public meaning it can be accessed by anyone, and static meaning it can be access without intializing the class.
+
+
+### What is composition in Java?
+
+### What is the Java Reflection API?
+
+## Spring
+
+---
+
+- A web application framework based on Java
+- Provide tools and libraries to create customized web applications.
+
+
+### Spring boot
+
+- A module of spring
+- Used to create a Spring Application project which can just run/execute. 
