@@ -97,4 +97,6 @@ Here is a place to store my reading notes for each class.
 - [Read 23: Android Fundamentals Continued: Rooms](401/read23.md)
 - [Read 24: Hash Tables](401/read24.md)
 - [Read 25: Android Fundamentals Continued: Espresso](401/read25.md)
+- [Read 26: Serverless and Amplify](401/read26.md)
+
 
