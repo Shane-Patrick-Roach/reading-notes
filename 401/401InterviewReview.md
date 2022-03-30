@@ -26,6 +26,18 @@
 
 ### What is the Java Reflection API?
 
+
+### Java is ALWAYS pass by value not reference.
+
+This means that when ever you are trying to change something, you are identifying it with a specific value of where it is stored in memory, then accessing the object by that value.
+
+### What is a map and HashMap in java?
+
+- at its core its simply a collection of key value pairs.
+
+
+
+
 ## Spring
 
 ---
