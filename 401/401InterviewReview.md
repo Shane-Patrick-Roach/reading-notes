@@ -35,6 +35,34 @@ This means that when ever you are trying to change something, you are identifyin
 
 - at its core its simply a collection of key value pairs.
 
+### Why is Java not a pure Object Oriented Language?
+
+- Java supports primitive data types - byte, boolean, char, short, int, float, long, and double.
+- hence not a pure object oriented language.
+
+### Why does Java not make use of pointers?
+
+### What do you understand by an instance variable and a local variable?
+
+- Instance variables are those variables availble to all the methods in the class.
+- if changes are done to these variables, then only the instance will be affected. 
+- local variables aare present within a block, function, or constructor and can be only accessed inside them.
+
+
+### What is data encapsulation?
+
+- Data encapsulation is an object oriented programming concept of hiding the data attributes and their behaviors in a single unit.
+- it helps developes follow modulaarity while developing siftware by enrusing that eaach object is independent of other objects by having its own methods, aattributes, and functionalities.
+
+### What is the difference between equals() and equality operator (==) in Java?
+
+#### Equals 
+- Method defined in the object class
+- used to check the equality of contents between two objects.
+
+#### ==
+- binary operator
+- used to compare addressess or references, checks to see if both the objects are pointing to the same location in memory. 
 
 
 
