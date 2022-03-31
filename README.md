@@ -99,5 +99,7 @@ Here is a place to store my reading notes for each class.
 - [Read 25: Android Fundamentals Continued: Espresso](401/read25.md)
 - [Read 26: Serverless and Amplify](401/read26.md)
 - [Read 27: AWS Amplify: Connections](401/read27.md)
+- [Read 28: AWS Amplify: Monetization](401/read28.md)
+
 
 
