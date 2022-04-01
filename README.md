@@ -100,6 +100,5 @@ Here is a place to store my reading notes for each class.
 - [Read 26: Serverless and Amplify](401/read26.md)
 - [Read 27: AWS Amplify: Connections](401/read27.md)
 - [Read 28: AWS Amplify: Monetization](401/read28.md)
-
-
+- [Read 29: Graphs](401/read29.md)
 
