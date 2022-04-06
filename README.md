@@ -102,6 +102,7 @@ Here is a place to store my reading notes for each class.
 - [Read 28: AWS Amplify: Monetization](401/read28.md)
 - [Read 29: Graphs](401/read29.md)
 - [Read 30: AWS Amplify: Cognito](401/read30.md)
-- [Read 30: AWS Amplify: S3](401/read31.md)
+- [Read 31: AWS Amplify: S3](401/read31.md)
+- [Read 32: Android: Intent Filters](401/read31.md)
 
 
