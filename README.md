@@ -105,5 +105,7 @@ Here is a place to store my reading notes for each class.
 - [Read 31: AWS Amplify: S3](401/read31.md)
 - [Read 32: Android: Intent Filters](401/read32.md)
 - [Read 33: Android: Location](401/read33.md)
+- [Read 34: AWS: Pinpoint and Polly](401/read34.md)
+
 
 
