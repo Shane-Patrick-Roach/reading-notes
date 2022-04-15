@@ -108,6 +108,8 @@ Here is a place to store my reading notes for each class.
 - [Read 34: AWS: Pinpoint and Polly](401/read34.md)
 - [Read 35: Google Admob](401/read35.md)
 - [Read 35: OSS](401/read36.md)
+- [Ethics](401/ethics.md)
+
 
 
 
