@@ -111,6 +111,6 @@ Here is a place to store my reading notes for each class.
 - [Ethics](401/ethics.md)
 
 
-
+´
 
 
