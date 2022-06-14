@@ -1,0 +1,66 @@
+# What is Azure?
+
+
+## List of services
+
+### Compute
+
+Azure provides a range of options for hosting applications and services.
+
+### Networking
+
+Connects the outside world to services and features in the global azure data centers. 
+
+### Storage
+
+Four main types of storage, azure blob storage, file storage, queue storage, and table storage.
+
+All share common characteristics
+- Durable,
+- Secure
+- Scalable
+- Managed
+- Accesible
+
+
+### Mobile
+
+Developers can create mobile back-end services for iOS, Android and Windows apps quickly.
+
+### Databases
+
+Ability to store a wide variety of data types and volumes. Availble to users instantly.
+
+### Web
+
+Hosting a great web experience is criticay characteristic in todays maarket. Azure provides functionaility to facilitate this.
+
+### Iot
+
+The ability for devices to garner and then relay information for data analysis. Many services can drive end to end solutions for IoT.
+
+
+## Public, Private, and Hybrid Clouds
+
+Three different deoplyment models has different aspects to migrate to the cloud.
+
+## Iaas, Paas, Saas
+
+### IaaS
+IaaS is the most flexible category of cloud services. It aims to give you complete control over the hardware that runs your application. Instead of buying hardware, with IaaS, you rent it.
+
+### SaaS
+SaaS is software that's centrally hosted and managed for you and your users or customers. Usually one version of the application is used for all customers, and it's licensed through a monthly or annual subscription.
+
+SaaS provides the same benefits as IaaS, but again there are some additional benefits to be aware of too.
+
+
+### What is serverless computing?
+
+Like PaaS, serverless computing enables developers to build applications faster by eliminating the need for them to manage infrastructure.
+
+With serverless applications, the cloud service provider automatically provisions, scales, and manages the infrastructure required to run the code.
+
+Serverless architectures are highly scalable and event-driven, only using resources when a specific function or trigger occurs.
+
+It's important to note that servers are still running the code. The "serverless" name comes from the fact that the tasks associated with infrastructure provisioning and management are invisible to the developer.
